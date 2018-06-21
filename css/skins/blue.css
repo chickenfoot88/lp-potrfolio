@@ -1,0 +1,105 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #2ea2cc; }
+
+p,
+body .main_footer,
+.s_about li {
+  color: #888; }
+
+.main_footer {
+  letter-spacing: 0px; }
+
+.color_element {
+  color: #2ea2cc; }
+
+.color_bg {
+  background-color: #2ea2cc; }
+
+.color_border {
+  border-color: #2ea2cc; }
+
+.main_color_bg {
+  background-color: #222; }
+
+path {
+  fill: #FAFAFA; }
+
+.top_mnu a:hover {
+  color: #2ea2cc; }
+  .top_mnu a:hover span {
+    background-color: rgba(255, 255, 255, 0.05); }
+.top_mnu a {
+  letter-spacing: 4px; }
+
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s_about p:nth-child(even) {
+  color: #2ea2cc; }
+
+.personal_header {
+  letter-spacing: 2px; }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 2px; }
+.resume_container .resume_item .year {
+  background-color: #2ea2cc; }
+.resume_container .resume_item .resume_description {
+  letter-spacing: 1px; }
+
+.s_portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+.s_portfolio .active {
+  color: #fff;
+  border-bottom: 1px solid #2ea2cc; }
+
+.port_item_cont a {
+  border-color: #2ea2cc;
+  color: #2ea2cc; }
+
+.contacts_icon {
+  color: #2ea2cc; }
+
+.text-danger {
+  color: #2ea2cc; }
+
+form {
+  letter-spacing: 2px;
+  color: #888; }
+  form input,
+  form textarea {
+    letter-spacing: 2px; }
+  form input:focus,
+  form textarea:focus {
+    border: 1px solid #2ea2cc; }
+  form button {
+    background-color: #2ea2cc;
+    letter-spacing: 2px; }
+
+/*# sourceMappingURL=blue.css.map */
